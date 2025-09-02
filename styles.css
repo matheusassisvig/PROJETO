@@ -123,5 +123,6 @@ p {
         height: auto;
         max-width: -webkit-fill-available;
         margin-top: 90px;
+        max-width: 390px;
     }
 }
